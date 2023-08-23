@@ -1,0 +1,26 @@
+section {
+  display: flex;
+  width: 900px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+div {
+  width: 33%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#blue {
+  background-color: aquamarine;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#pink {
+  background-color: hotpink;
+}
