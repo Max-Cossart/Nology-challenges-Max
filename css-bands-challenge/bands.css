@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+h2 {
+    text-align: end;
+    font-weight: 500;
+}
+
+h3 {
+    color: green;
+    font-size: x-large;
+}
+
+div {
+    border: 2px black solid;
+}
+
+ul {
+    list-style: none;
+    font-size: larger;
+    font-weight: bold;
+    margin: 0;
+}
+
+.style {
+    text-decoration: underline;
+    font-style: italic;
+}
