@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+div {
+    width: 33%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue {
+    background-color: aquamarine;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.pink {
+    background-color: hotpink;
+}
+
+.red {
+    background-color: red;
+}
