@@ -1,0 +1,20 @@
+.section__1 {
+    border: 3px green dashed;
+}
+
+.section__2 {
+    border: 2px coral solid;
+}
+
+.section__center {
+    text-align: center;
+}
+
+.section__end {
+    text-align: end;
+}
+
+.section__blue {
+    color: blue;
+    text-decoration: line-through;
+}
