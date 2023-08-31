@@ -17,7 +17,7 @@ function circlePerimeter(rad) {
     return (2 * Math.PI * rad).toFixed(2)
 }
 
-console.log(circlePerimeter(5))
+console.log(circlePerimeter(7))
 
 //  Years to Days and Seconds
 
