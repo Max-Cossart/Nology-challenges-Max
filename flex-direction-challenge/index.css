@@ -1,0 +1,64 @@
+body {
+display: flex;
+flex-direction: column-reverse;
+}
+
+section {
+    display: flex;
+    width: 100%;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.x-axis {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 20px;
+}
+
+.y-axis {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-top: 10px;
+    gap: 20px;
+}
+
+.light-blue {
+    background-color: lightblue;
+}
+
+.red {
+    background-color: rgb(194, 83, 83);
+}
+
+.green {
+    background-color: greenyellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+.blue {
+    background-color: blue;
+}
